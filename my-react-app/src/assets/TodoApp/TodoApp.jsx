@@ -289,8 +289,6 @@ function TodoApp(){
         </ul>
         </section>
         </div>
-
-        
         </div>
         
     );
