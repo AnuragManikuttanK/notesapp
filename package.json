@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> baa12059077baa94a381e3881e95896eddf991e1
 {
   "name": "my-react-app",
   "private": true,
@@ -10,10 +14,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "@tailwindcss/vite": "^4.3.3",
+    "tailwindcss": "^4.3.3",
+>>>>>>> baa12059077baa94a381e3881e95896eddf991e1
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@eslint/js": "^10.0.1",
     "@tailwindcss/vite": "^4.3.3",
     "@types/react": "^19.3.0",
@@ -24,6 +34,10 @@
     "eslint-plugin-react-refresh": "^0.5.7",
     "globals": "^17.13.0",
     "tailwindcss": "^4.3.3",
+=======
+    "@vitejs/plugin-react": "^6.1.2",
+    "eslint": "^10.13.0",
+>>>>>>> baa12059077baa94a381e3881e95896eddf991e1
     "vite": "^8.3.4"
   }
 }
